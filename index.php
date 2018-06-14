@@ -1,1 +1,1 @@
-<?php echo "<h1>pod's ip address = ".$_SERVER['SERVER_ADDR']."</h1>";?>
+<?php echo "pod's ip address = ".$_SERVER['SERVER_ADDR']."\n";?>
